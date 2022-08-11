@@ -1,0 +1,41 @@
+body
+{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+.loginPage , .SignupPage
+{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+h1 {
+    color: #17a2b8;
+}
+.form-color
+{
+    background-color: #24353f;
+   
+}
+.text-white
+{
+    color: #fff;
+}
+.navbar
+{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.navbar a
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.home
+{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.text
+{
+    width: 60%;
+    height: 150px;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
